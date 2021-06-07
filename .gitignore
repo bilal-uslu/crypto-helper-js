@@ -5,6 +5,6 @@ coverage
 dist
 lib
 es
-types
+/types
 
 .DS_Store
