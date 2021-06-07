@@ -13,8 +13,8 @@ export default function api(): ABC {
     return `merhaba ${x}`
   }
 
-  const store = {
+  const _api = {
     getData
   } as ABC
-  return store
+  return _api
 }
